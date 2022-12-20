@@ -55,12 +55,12 @@ Intermediário
 
 ## Graduação em sistemas para internet
 
-2022 -
+*2022 - Presente*
 
 Faculdade Descomplica
 
 ## Ensino técnico em Desenvolvimento de sistemas
 
-*2019-2021*
+*2019 - 2021*
 
 Etec São José dos Campos - São José dos Campos
