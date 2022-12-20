@@ -15,13 +15,20 @@ Meu foco atualmente está sendo em construir projetos que sejam úteis e resolva
 
 ---
 
+# **👋 Quem Sou eu **
+
+Na minha vida, uma constante é a minha vontade de aprender novas coisas, de encontrar novas maneiras de interpretar pensamentos antigos e buscar novos pontos de vista. A área da tecnologia e da programação, são áreas onde essas características estão sempre em uso, o que me motiva a sempre me superar.
+
+Nas horas vagas gosto de criar ilustrações e estudar novas técnicas de desenho. Muitas dessas técnicas que estudo modificaram minha visão de mundo em uma forma mais artística e criativa. 
+
 # **👩🏻‍💻 Experiência**
 
 ## Estagiária Full-Stack
 
 São José dos Campos *– (Abril, 2022- Presente)*
 
-Contribuí na manutenção de sistemas internos na empresa, consertando bugs e criando novas features.
+Contribuí na manutenção de sistemas internos na empresa, consertando bugs e criando novas features. 
+Também criei novos fluxosd de conteúdo no Bot de atendimento automático, utilizando a plataforma Hi. 
 
 ---
 
